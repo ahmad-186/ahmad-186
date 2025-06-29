@@ -1,5 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad Shahzad
 
+- 🎓 BS Artificial Intelligence Student
+- 🔍 Passionate about Data Science & Machine Learning
+- 🧪 Currently working on EDA, Python, and Data Visualization
+- 📫 Reach me: ahmadshahzad007k@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/ahmad-shahzad-46a744248/))
 <!--
 **ahmad-186/ahmad-186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
