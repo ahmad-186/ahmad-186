@@ -2,11 +2,11 @@
 <h3 align="center">AI Engineer | Agentic Systems (LangGraph/LangChain) | Automation (n8n, Retell AI, Power Automate)</h3>
 
 <p align="center">
-I design and ship production-grade AI agents and automation systems — from LangGraph-based customer support bots to self-correcting SQL analytics engines and voice AI receptionists. I run <b>Neme Automation</b>, an AI automation agency, and build independently as an AI Engineer.
+I design and ship production-grade AI agents and automation systems — from LangGraph-based customer support bots to self-correcting SQL analytics engines and voice AI receptionists. 
 </p>
 
 <p align="center">
-📍 Based in Austin, Texas &nbsp;|&nbsp; 🎓 CS Student — working toward AI Engineer job-readiness
+📍 Based in Pakistan &nbsp;|&nbsp; 🎓 AI Student — working toward AI Engineer job-readiness
 </p>
 
 ---
@@ -87,7 +87,7 @@ Classical ML pipeline comparing 4–5 models combined via a voting classifier to
 `scikit-learn` `Ensemble Learning (Voting Classifier)` `NLP`
 
 ### 🔢 [MNIST Digit Classification — Perceptron vs ANN vs CNN](https://github.com/ahmad-186/MNIST-Digit-Classification-Perceptron-vs-ANN-vs-CNN)
-*(inferred from title — confirm/adjust)* Comparative study of a single-layer Perceptron, a fully-connected ANN, and a CNN on MNIST digit classification, benchmarking architecture choice against accuracy.
+Comparative study of a single-layer Perceptron, a fully-connected ANN, and a CNN on MNIST digit classification, benchmarking architecture choice against accuracy.
 `TensorFlow/Keras` `CNN` `Deep Learning`
 
 ### 👥 [Customer Segmentation](https://github.com/ahmad-186/Customer_Segmentation)
@@ -95,11 +95,11 @@ Classical ML pipeline comparing 4–5 models combined via a voting classifier to
 `scikit-learn` `Clustering` `Pandas`
 
 ### 🛒 [E-commerce Trends & Insights (SQL)](https://github.com/ahmad-186/Ecommerce-Trends-and-Insights-using-SQL)
-*(inferred from title — confirm/adjust)* SQL-driven analysis of e-commerce transaction data to surface sales trends and customer insights.
+SQL-driven analysis of e-commerce transaction data to surface sales trends and customer insights.
 `SQL` `Data Analysis`
 
 ### 🏬 [Superstore EDA Project](https://github.com/ahmad-186/Superstore-EDA-Project)
-*(inferred from title — confirm/adjust)* Exploratory data analysis on the classic Superstore retail dataset — sales, profit, and regional performance breakdowns.
+Exploratory data analysis on the classic Superstore retail dataset — sales, profit, and regional performance breakdowns.
 `Pandas` `EDA` `Data Visualization`
 
 ### 🧪 [LangGraph Learning Projects](https://github.com/ahmad-186/LangGraph_Learning_Projects)
@@ -107,7 +107,7 @@ Collection of smaller LangGraph exercises and experiments used while building to
 `LangGraph` `LangChain`
 
 ### 🗣️ [Natural Language Data Analyst (CSV/SQL)](https://github.com/ahmad-186/NATURAL_LANGUAGE_DATA_ANALYST-CSV-SQL-)
-*(earlier iteration — is this a precursor to InsightAI, or a separate CSV-focused tool? confirm)* Natural language interface for querying CSV/SQL data sources.
+Natural language interface for querying CSV/SQL data sources.
 `Python` `SQL` `LLM`
 
 ---
@@ -116,8 +116,8 @@ Collection of smaller LangGraph exercises and experiments used while building to
 
 <!-- Add your LinkedIn / portfolio / email once confirmed -->
 - 💼 LinkedIn: [ahmad-shahzad](https://www.linkedin.com/in/ahmad-shahzad-46a744248)
-- 🌐 Portfolio: *add link once live*
-- 📧 Email: *add if you want it public*
+- 🌐 Portfolio: *-*
+- 📧 Email: *ahmadshahzad007k@gmail.com*
 
 ---
 
