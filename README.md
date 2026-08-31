@@ -6,9 +6,9 @@
 
 Founder, [Neme Automation](#) · CS student building toward production-grade agentic systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F5A623?style=flat-square&logo=linkedin&logoColor=1A1A1A)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F5A623?style=flat-square&logo=linkedin&logoColor=1A1A1A)](www.linkedin.com/in/ahmad-shahzad-46a744248)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1A1A1A?style=flat-square&logo=googlechrome&logoColor=F5A623)](#)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-FAFAF8?style=flat-square&logo=gmail&logoColor=1A1A1A&labelColor=1A1A1A)](#)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-FAFAF8?style=flat-square&logo=gmail&logoColor=1A1A1A&labelColor=1A1A1A)](ahmadshahzad007k@gmail.com)
 
 </div>
 
